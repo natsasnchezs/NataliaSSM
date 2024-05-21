@@ -1,6 +1,6 @@
 <template>
 
-<div class="ms-10 my-10 text-4xl font-thin text-purple-500">
+<div class="ms-10 my-10 text-4xl font-thin text-red-900 text-bold">
    <NuxtLink to="/"> FakeStore</NuxtLink>
    </div>
     <slot />

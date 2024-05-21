@@ -1,7 +1,7 @@
 <template>
   <div>
-    <h1 class="mx-10 mt-10 text-4xl  text-blue-600">
-    Home
+    <h1 class="mx-10 mt-10 text-4xl  text-green-600">
+    HOME
   </h1>
   <div>
       <p class="mx-10 mt-10">

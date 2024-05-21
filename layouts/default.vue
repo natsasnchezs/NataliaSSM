@@ -1,7 +1,7 @@
 <template>
     <div>
 <header class="flex justify-between mx-10 my-10">
-   <div class="text-4xl text-purple-500">
+   <div class="text-4xl text-red-900 text-bold">
    <NuxtLink to="/"> FakeStore</NuxtLink>
    </div>
    <div class="flex gap-7">

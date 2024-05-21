@@ -1,6 +1,6 @@
 <template>
   <div>
-    <h1 class="mx-10 mt-10 text-4xl  text-blue-600">About</h1>
+    <h1 class="mx-10 mt-10 text-4xl  text-green-600 ">ABOUT</h1>
     <div>
       <p class="mx-10 mt-10">
         Lorem ipsum dolor, sit amet consectetur adipisicing elit. Id maxime
